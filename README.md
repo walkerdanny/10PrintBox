@@ -1,11 +1,13 @@
-# 10 Print Box
+# 10 Print Box 📺
 
 A simple implementation of the [10 print algorithm](https://10print.org) on Arduino, with native TV output.
 A potentiometer adjusts the probability threshold, allowing you to change the patterns which are generated!
 
 [![Assembled](assembled.jpg)](https://www.youtube.com/watch?v=Z7ymfy0DB0M)
 
-## Hardware
+![Output](output.jpg)
+
+## Hardware ⚙
 
 The 10 Print Box is based on an Arduino Nano, although the code will run on most of the Arduino range. The compatibility is dependent on the platforms supported by the [TVOut library](https://playground.arduino.cc/Main/TVout).
 
@@ -18,7 +20,7 @@ To build the box, you'll need:
   - One 470 Ohm resistor and one 1K Ohm resistor
   - Three 1K Ohm resistors (this is what I used as I had them to hand)
 
-## Build
+## Build 🛠
 
 The build is pretty much as simple as soldering everything together following the schematic! It might be best to build the circuit on a breadboard first, and upload the "10Print.ino" file to the Arduino. If you don't know how to upload code to an Arduino, have a look [here.](https://www.arduino.cc/en/Main/Howto).
 
@@ -37,5 +39,5 @@ If you're using the 3D printed box, I'd recommend holding everything together wi
 If you have any questions, feel free to [tweet me](https://twitter.com/walkerdanny) or open an issue on this repository.
 
 
-## Thanks
+## Thanks 👏
 Thanks to [Daniel Shiffman](https://github.com/shiffman) for the inspiration, and to [Noopkat](https://github.com/noopkat) for the idea to do it in hardware! Follow them both, they do good things.

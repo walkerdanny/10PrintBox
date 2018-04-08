@@ -3,9 +3,7 @@
 A simple implementation of the [10 print algorithm](https://10print.org) on Arduino, with native TV output.
 A potentiometer adjusts the probability threshold, allowing you to change the patterns which are generated!
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gXaomFMQZ8E"
-target="_blank"><img src="http://img.youtube.com/vi/gXaomFMQZ8E/0.jpg"
-alt="Video" width="240" height="180" border="10" /></a>
+[![Assembled](assembled.jpg)](https://www.youtube.com/watch?v=Z7ymfy0DB0M)
 
 ## Hardware
 
